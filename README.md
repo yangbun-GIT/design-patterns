@@ -1,5 +1,17 @@
-# Vue 3 + TypeScript + Vite
+## 01. 싱글톤 패턴 (Singleton Pattern)
+![Singleton 스크린샷](./src/assets/Singleton.png)
 
-This template should help get you started developing with Vue 3 and TypeScript in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+## 02. 팩토리 메서드 패턴 (Factory Method Pattern)
+![FactoryMethod 스크린샷](./src/assets/FactoryMethod.png)
 
-Learn more about the recommended Project Setup and IDE Support in the [Vue Docs TypeScript Guide](https://vuejs.org/guide/typescript/overview.html#project-setup).
+## 06. 어댑터 (Adapter) 패턴
+![Adapter 스크린샷](./src/assets/Adapter.png)
+
+## 09. 데코레이터 (Decorator) 패턴
+![Decorator 스크린샷](./src/assets/Decorator.png)
+
+## 12. 옵저버 (Observer) 패턴
+![Observer 스크린샷](./src/assets/Observer.png)
+
+## 16. 방문자 (Visitor) 패턴
+![Visitor 스크린샷](./src/assets/Visitor.png)
