@@ -1,17 +1,17 @@
 <template>
-  <visitor-example />
+  <strategy-example />
 </template>
 
 <script lang="ts">
 import { defineComponent } from 'vue';
-import VisitorExample from "@/components/VisitorExample.vue";
+import StrategyExample from "@/components/StrategyExample.vue";
 
 // [수정] '@' 별칭을 사용하여 컴포넌트들을 import 함
 
 export default defineComponent({
   name: 'App',
   components: {
-    VisitorExample
+    StrategyExample
   }
 });
 </script>
